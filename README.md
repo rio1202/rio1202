@@ -4,8 +4,7 @@
 
 [![Mail](https://img.shields.io/badge/-rio@bk.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:rio@bk.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/rio1202)
-
-![alt text](/Users/daniilivanov/Desktop/GitKursach/img/like-123.png "Описание будет тут")​
+[<img src="img/like-123.png" width="37"/>](img/like-123.png)
 
 Hi, I am Daniil from Russia. Passionate about Apple services. Learning technologies that I found interesting.
 
@@ -18,4 +17,5 @@ Hi, I am Daniil from Russia. Passionate about Apple services. Learning technolog
 ***
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rio1202&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F&locale=en"/>
+
 
